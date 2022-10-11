@@ -1,0 +1,9 @@
+{
+    "name": "kinesis-producer",
+    "version": "0.0.1",
+    "description": "A sample application that writes records to Amazon Kinesis",
+    "main": "app.js",    
+    "dependencies": {
+      "aws-sdk": "^2.1"      
+    }
+  }

@@ -1,0 +1,3 @@
+name: pulumi-aws-lambda-consuming-kinesis-stream
+description: A minimal AWS TypeScript Pulumi program
+runtime: nodejs
